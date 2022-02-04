@@ -15,3 +15,8 @@ I'm learning Java
 *   GitHub
 *   To be continued...Step by step
 
+<div align="center" style="margin: 40px 0">
+   <a href="https://github.com/KOLLYANN/github-profile-views-counter">
+       <img width="175px" src="https://komarev.com/ghpvc/?username=KOLLYANN&color=DE002D">
+   </a>
+</div>
