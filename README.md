@@ -1,4 +1,4 @@
-### Hi, I'm Nikolay 👋
+### Hi, I'm Nikolay! 👋
 
 <p align='center'>
    <a href="https://github.com/KOLLYANN/github-readme-stats"><img height=150
